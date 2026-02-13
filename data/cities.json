@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Krestetskiy Rayon",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2026-02-10T12:51:03.146Z",
+      "notes": "hey there this is the new note",
+      "position": {
+        "lat": "58.25172718316509",
+        "lng": "32.66235351562501"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-02-13T13:11:40.709Z",
+      "notes": "gasdfs",
+      "position": {
+        "lat": "29.954934549656144",
+        "lng": "31.245117187500004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Mit Ghamr",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-02-13T13:14:05.004Z",
+      "notes": "",
+      "position": {
+        "lat": "30.731359851500823",
+        "lng": "31.29262447357178"
+      },
+      "id": 98443201
+    }
+  ]
+}
